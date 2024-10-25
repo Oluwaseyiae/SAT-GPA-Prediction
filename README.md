@@ -26,10 +26,12 @@ The dataset used in this project is from Kaggle and includes the following colum
   your-project-name/
   ├── data/
   │   └── dataset.csv
-  ├── notebooks/
-  │   └── analysis.ipynb
+  │ 
+  └── analysis.ipynb
+  │ 
   ├── images/
   │   └── visualization.png
+  │ 
   └── README.md
   ```
 
