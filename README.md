@@ -17,6 +17,11 @@ The dataset used in this project is from Kaggle and includes the following colum
 - Perform Linear Regression to predict first-year GPA.
 - Analyze the impact of gender on academic performance.
 
+## Project Structure
+- `data/`: Contains the dataset file.
+- `images/`: Any visualizations or images generated during the analysis.
+- `README.md`: Project overview and documentation.
+
 
 ## Setup
 Instructions to set up the environment and run the code:
