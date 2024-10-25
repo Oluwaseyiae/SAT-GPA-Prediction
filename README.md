@@ -30,8 +30,7 @@ The dataset used in this project is from Kaggle and includes the following colum
   │   └── analysis.ipynb
   ├── images/
   │   └── visualization.png
-  ├── README.md
-  └── requirements.txt
+  └── README.md
   ```
 
 ## Setup
