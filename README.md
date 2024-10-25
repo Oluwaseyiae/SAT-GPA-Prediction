@@ -22,6 +22,17 @@ The dataset used in this project is from Kaggle and includes the following colum
 - `images/`: Any visualizations or images generated during the analysis.
 - `README.md`: Project overview and documentation.
 
+  ```
+  your-project-name/
+  ├── data/
+  │   └── dataset.csv
+  ├── notebooks/
+  │   └── analysis.ipynb
+  ├── images/
+  │   └── visualization.png
+  ├── README.md
+  └── requirements.txt
+  ```
 
 ## Setup
 Instructions to set up the environment and run the code:
